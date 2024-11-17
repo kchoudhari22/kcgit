@@ -1,0 +1,6 @@
+Course [crn=8997, prefix=GOL124 , creditHours=1]
+Course [crn=6997, prefix=GOL109 , creditHours=1]
+Course [crn=5696, prefix=KOL110 , creditHours=2]
+Course [crn=5580, prefix=MAT636 , creditHours=2]
+Course [crn=9696, prefix=COP100 , creditHours=3]
+Course [crn=7587, prefix=MAT936 , creditHours=5]
